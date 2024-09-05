@@ -1,0 +1,33 @@
+table,tr,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+#td1{background-color:green ;}
+#td2{background-color:red ;}
+#td3{background-color:yellow ;}
+#td4{background-color:grey ;}
+#td5{background-color:pink ;}
+#td6{background-color:blue ;}
+#td7{background-color:violet ;}
+#td8{background-color:lightgreen ;}
+#td9{background-color: lightseagreen;}
+#td10{background-color:rgb(133, 117, 174) ;}
+#td11{background-color:peru ;}
+#td12{background-color: lightslategray ;}
+#td13{background-color: rgb(110, 17, 198) ;}
+#td14{background-color:yellowgreen ;}
+#td15{background-color:rgb(187, 63, 63) ;}
+#td16{background-color:rgb(149, 149, 6) ;}
+#td17{background-color:rgb(189, 136, 136) ;}
+#td18{background-color:rgb(22, 57, 22) ;}
+#td19{background-color:rgba(26, 26, 186, 0.562) ;}
+#td20{background-color:pink ;}
+#td21{background-color:red ;}
+#td22{background-color:blue ;}
+#td23{background-color: violet;}
+#td24{background-color:yellow ;}
+#td25{background-color:greenyellow ;}
+*{background-color: rgb(176, 11, 36);}
+*{font-size:large;}
+*{font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+table{height: 250px;width: 500px;}
